@@ -3,7 +3,7 @@ import requests
 
 # Вставьте свои ключи
 TELEGRAM_API_TOKEN = '7793135694:AAF9FeKZxuVnxBOjhUHQzWqY6EytPjyyXQk'
-CHAD_API_KEY = 'chad-592ed89a0fb54181ac616739a2bf748bsenyrg7j'
+CHAD_API_KEY = 'chad-9e66f83cdc68411d9f857059f801ff25ugk2kad6'
 
 # Инициализация бота
 bot = telebot.TeleBot(TELEGRAM_API_TOKEN)
